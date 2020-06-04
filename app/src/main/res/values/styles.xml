@@ -8,21 +8,7 @@
     </style>
 
 
-    <style name="MyRock" parent="@android:style/Widget.CompoundButton.RadioButton">
-        <item name="android:button">@drawable/custom_rock</item>
-        <item name="android:width">5dp</item>
-        <item name="android:height">5dp</item>
-    </style>
-    <style name="MyPaper" parent="@android:style/Widget.CompoundButton.RadioButton">
-        <item name="android:button">@drawable/paper_user</item>
-        <item name="android:layout_width">30dp</item>
-        <item name="android:height">30dp</item>
-    </style>
-    <style name="MyScissor" parent="@android:style/Widget.CompoundButton.RadioButton">
-        <item name="android:button">@drawable/scissor_user</item>
-        <item name="android:layout_width">30dp</item>
-        <item name="android:height">30dp</item>
-    </style>
+
 
 
 </resources>
