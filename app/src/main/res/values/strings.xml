@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rock Papers Scissors</string>
+    <string name="l_e_t_s_p_l_a_y">L e t \'s P l a y</string>
+    <string name="choose_your_option">Choose Your Option :</string>
+</resources>
